@@ -1,5 +1,4 @@
 # Software Development Project Experience
-Information about past class projects. 
 
 ## Chat Web Application | Spring 2024 | FastAPI, React, Tailwind, CSS/JavaScript
 - Full code is available in my github repo [chat-application](https://github.com/sydneyandrus/chat-application)
