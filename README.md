@@ -1,5 +1,11 @@
 # Software Development Project Experience
 
+## Personal Blog | Ongoing | Eleventy, HTML/CSS/JavaScript
+- Created and update a personal blog made with Eleventy as a static site generator
+- Pages are templated using Liquid and styled with CSS
+- Site is hosted by Netlify at [sydneyandr.us](https://sydneyandr.us/)
+- Full code and details are available in my github repo [blog-sydneyandrus](https://github.com/sydneyandrus/blog-sydneyandrus)
+
 ## Chat Web Application | Spring 2024 | FastAPI, React, Tailwind, CSS/JavaScript
 - Full code is available in my github repo [chat-application](https://github.com/sydneyandrus/chat-application)
 - Created an application where users can send messages to different groups, as well as creating and adding users to groups
@@ -19,7 +25,7 @@
 ## Sprite Editor App | Spring 2022 | C++, QtCreator
 - Group project to create an application where users can draw multi-frame sprites, add/edit frames, and see a preview of the animated sprite
 - We used the QTCreator framework with most code written in C++
-- Followed Agile methedologies to streamline the development process
+- Followed Agile methodologies to streamline the development process
 - I took part in and occasionally led scrum meetings
 - I contributed to the backend but was primarily responsible for the design and implementation of the frontend and UI elements
 
